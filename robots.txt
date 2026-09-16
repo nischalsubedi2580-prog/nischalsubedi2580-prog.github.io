@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nischalsubedi2580-prog.github.io/sitemap.xml
